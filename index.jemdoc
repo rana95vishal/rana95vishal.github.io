@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{example.html}
+= Vishal Rana
+ 
+ ~~~
+{}{img_left}{profile.jpg}{}{250}{}{}
+Vishal Rana, Ph.D. candidate,\n
+Advisor: [http://publish.illinois.edu/milenkovic/ Prof. Olgica Milenkovic],\n
+[https://csl.illinois.edu/ Coordinated Science Lab],\n
+[https://ece.illinois.edu/ Electrical and Computer Engineering],\n
+[https://illinois.edu/ University of Illinois, Urbana-Champaign],\n
+
+~~~
+
+== About me
+I am a Ph.D. candidate in the [https://ece.illinois.edu/ Depatrment of Electrical and Computer Engineering] at the [https://illinois.edu/ University of Illinois, Urbana-Champaign] under the supervision of [http://publish.illinois.edu/milenkovic/ Prof. Olgica Milenkovic]. I received my M.S. in ECE from [https://illinois.edu/ University of Illinois, Urbana-Champaign] in 2021. Previously, I graduated from [https://www.iitk.ac.in/ Indian Institute of Technology, Kanpur] with a major in [https://www.iitk.ac.in/ee/ Electrical Engineering] and a minor in [https://www.cse.iitk.ac.in/, Machine Learning] in 2018. 
+
+== Research
+My research interests lie broadly at the intersection of biology and mathematics. More specifically, I focus on applications of machine learning and big data to complex biological problems. My recent and ongoing projects include
+- Combinatorial promoter methylation pattern analysis in cancer.
+- Temporal and spatial charecterization of driver mutations in cancer.
+- Small-sample estimation of support and distribution of mutations in viral genomes.
+
+== Contact
+312, Coordinated Science Lab,\n
+1308 W Main St, Urbana, IL 61801,\n
+email: vishalr \[at\] illinos \[dot\] edu \n
+phone: +1-217-721-8614.
